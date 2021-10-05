@@ -4,5 +4,4 @@
 
 bla bla bla
 
-[lorem ipsum](http://google.com)
 
